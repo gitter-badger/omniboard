@@ -1,6 +1,6 @@
 # omniboard
 
-[omniboard](http://omniboard.co) aims to be an elegant, lightweight, and simple static portal for the internet, by utilizing popular frameworks and components to deliver a visually appealing and informative website.
+[omniboard](http://omniboard.co) aims to be an elegant, lightweight, and simple portal for the internet, by utilizing popular frameworks and components to deliver a visually appealing and informative website.
 
 ## Table of contents
 
